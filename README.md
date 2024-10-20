@@ -14,7 +14,8 @@ Tools & Technologies:
 
 ✨ Data Collection ✨
     
-    We used Python and web scraping techniques to collect data from the Cars24 website. The collected data was then saved in an Excel file for further analysis.
+    We used Python and web scraping techniques to collect data from the Cars24 website. 
+    The collected data was then saved in an Excel file for further analysis.
 ✨ Data Cleaning  ✨
     
     After data collection, we found that the data was unclear and needed refinement. The cleaning process involved:
