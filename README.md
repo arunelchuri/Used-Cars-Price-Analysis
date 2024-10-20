@@ -16,10 +16,16 @@ Tools & Technologies:
     
     We used Python and web scraping techniques to collect data from the Cars24 website.
     The collected data was then saved in an Excel file for further analysis.
-    Link :https://www.cars24.com/buy-used-car?sort=bestmatch&serveWarrantyCount=true&gaId=781644408.1729423946&listingSource=Homepage_Filters&storeCityId=3686
+    
 ✨ Data Cleaning  ✨
     
     After data collection, we found that the data was unclear and needed refinement. The cleaning process involved:
     Removing spelling errors.
     Handling null values.
     Eliminating duplicate values.
+✨ Data Visualization ✨
+
+    The cleaned dataset was uploaded into Power BI, where we created visualizations to derive important insights.
+    The focus was on:
+      Analyzing car price variations.
+      Identifying the best cars with good quality at a lower price.
